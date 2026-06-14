@@ -1,1 +1,23 @@
 
+# Customer 360 Data Warehouse
+
+## Business Problem
+
+Customer data exists across multiple systems:
+
+1. CRM System
+2. Order Management System
+3. Support System
+
+Business users cannot get a single view of customers.
+
+## Solution
+
+Build a Customer 360 Data Warehouse using Azure Data Factory, Azure SQL Database, Azure Synapse Analytics and Power BI.
+
+## Expected Outcomes
+
+- Single customer view
+- Customer revenue analysis
+- Customer support analysis
+- Executive reporting
